@@ -6,7 +6,7 @@ loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimension
 ```
 
 ## Compatability
-This works on **any** executor that has a [![UNC](https://scriptunc.org/badge.png)]([badge.png](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge.png)) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and can run obfuscated scripts at a decent speed, will be able to run this script.
+This works on **any** executor that has a [![UNC](https://scriptunc.org/badge.png)]([badge.png](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge.png?a)) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and can run obfuscated scripts at a decent speed, will be able to run this script.
 
 ## How to use it
 
