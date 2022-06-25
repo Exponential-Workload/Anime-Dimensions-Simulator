@@ -17,5 +17,8 @@ This works on **any** executor that has a [![UNC](https://yieldingexploiter.gith
 4. Run the script
 5. Done!
 
+P.S. If you rin it outside of a round, you will run into [this](https://github.com/YieldingExploiter/Anime-Dimensions-Simulator/issues/1) error.<br/>
+For some executors, it will just run when you join; for others, you'll need to re-run when you join the main place.
+
 ### Starting the farming
 Type `start` in the console, then press enter.
