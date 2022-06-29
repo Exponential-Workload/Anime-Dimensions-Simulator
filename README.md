@@ -1,4 +1,8 @@
-# Anime-Dimensions-Simulator
+#### Notice
+I am not responsible if you get banned.<br/>
+Remember to always exploit on an alt account!
+
+# Anime Dimensions Simulator Autofarm/Autoplay
 Obfuscated until the game patches it lol
 
 ```lua
@@ -24,8 +28,15 @@ For some executors, it will just run when you join; for others, you'll need to r
 Type `start` in the console, then press enter.
 
 ### Autostart
+
+#### queue_on_teleport available? Great!
+For out-of-the-box autostart behaviour, we need queue_on_teleport, queueonteleport, or syn.queueonteleport.<br/>
+If these are available (most major executors, including [Script-Ware](https://script-ware.com/), [Fluxus](https://fluxteam.net), [KRNL](https://krnl.place), and Synapse-X, have it out-of-the-box), here's how you use Autostart:
+
 Type `autostart` in the console, then press enter.<br/>
 On subsequent rounds, the script will automatically run (if your executor supports queue_on_teleport) without you even needing to type `start`.
+
+#### No queue_on_teleport? No problem!
 
 If your executor supports autoexec, but not queue_on_teleport, you can put this script in your autoexec to achieve similar behaviour:
 ```lua
