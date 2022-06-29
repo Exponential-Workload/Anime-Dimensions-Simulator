@@ -29,7 +29,7 @@ Type `start` in the console, then press enter.
 
 ### Autostart
 
-#### queue_on_teleport available? Great!
+#### queue_on_teleport is available? Great!
 For out-of-the-box autostart behaviour, we need queue_on_teleport, queueonteleport, or syn.queueonteleport.<br/>
 If these are available (most major executors, including [Script-Ware](https://script-ware.com/), [Fluxus](https://fluxteam.net), [KRNL](https://krnl.place), and Synapse-X, have it out-of-the-box), here's how you use Autostart:
 
