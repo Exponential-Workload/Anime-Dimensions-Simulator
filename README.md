@@ -3,8 +3,8 @@ I am not responsible if you get banned.<br/>
 Remember to always exploit on an alt account!
 
 # Anime Dimensions Simulator Autofarm/Autoplay
-Obfuscated until the game patches it lol
 
+To run the script, use the following:
 ```lua
 loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','GameScript')();
 ```
