@@ -35,6 +35,13 @@ If these are available (most major executors, including [Script-Ware](https://sc
 Type `autostart` in the console, then press enter.<br/>
 On subsequent rounds, the script will automatically run (if your executor supports queue_on_teleport) without you even needing to type `start`.
 
+###### Notice
+Using this method, going to the lobby will disable autostart.<br/>
+You will need to run `autostart` in the console again if/when you join another round.
+
+Additionally, restarting your game will require you to re-enable autostart.
+
+
 #### No queue_on_teleport? No problem!
 
 If your executor supports autoexec, but not queue_on_teleport, you can put this script in your autoexec to achieve similar behaviour:
