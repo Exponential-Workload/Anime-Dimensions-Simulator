@@ -53,3 +53,5 @@ Note that this will create a console on **all** games if you put it in autoexec.
 
 ### Notices
 This script will, regardless of [Autostart Setting](#autostart), make you automatically retry, unless you press Lobby at the end of the round.
+
+<!-- I like how the README's length is comparable to the source code of https://github.com/YieldingExploiter/Anime-Dimensions-Simulator/commit/d5655690b526590854d6295b043ecbe507da3bfc (first commit excluding readme creation) -->
