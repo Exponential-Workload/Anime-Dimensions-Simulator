@@ -4,7 +4,6 @@ Remember to always exploit on an alt account!
 
 # Anime Dimensions Simulator Autofarm/Autoplay
 
-To run the script, use the following:
 ```lua
 loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','GameScript')();
 ```
