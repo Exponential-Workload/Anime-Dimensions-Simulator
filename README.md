@@ -8,7 +8,7 @@ Contact me on Discord: `Yielding#3961`
 I am not responsible if you get banned.<br/>
 Remember to always exploit on an alt account!
 
-# Anime Dimensions Simulator Autofarm/Autoplay
+# [Anime Dimensions Simulator](https://www.roblox.com/games/6938803436/ONE-YEAR-Anime-Dimensions-Simulator) Autofarm/Autoplay
 
 ```lua
 loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','GameScript')();
