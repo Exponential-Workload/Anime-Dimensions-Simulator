@@ -1,4 +1,10 @@
+###### To the devs of Anime Dimensions
+
+Need me to help you fix some of the obvious vulnerabilities you have?<br/>
+Contact me on Discord: `Yielding#3961`
+
 ###### Notice
+
 I am not responsible if you get banned.<br/>
 Remember to always exploit on an alt account!
 
