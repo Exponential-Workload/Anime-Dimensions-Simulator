@@ -6,7 +6,7 @@ loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimension
 ```
 
 ## Compatability
-This works on **any** executor that has a [![UNC](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge16.png)](https://scriptunc.org) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and can run obfuscated scripts at a decent speed, will be able to run this script.
+This works on **any** executor that has a [![UNC](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge16.png)](https://scriptunc.org) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and `getgenv()`, and can run obfuscated scripts at a decent speed, will be able to run this script.
 
 ## How to use it
 
@@ -22,3 +22,17 @@ For some executors, it will just run when you join; for others, you'll need to r
 
 ### Starting the farming
 Type `start` in the console, then press enter.
+
+### Autostart
+Type `autostart` in the console, then press enter.<br/>
+On subsequent rounds, the script will automatically run (if your executor supports queue_on_teleport) without you even needing to type `start`.
+
+If your executor supports autoexec, but not queue_on_teleport, you can put this script in your autoexec to achieve similar behaviour:
+```lua
+getgenv().autostart = true; loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','GameScript')();
+```
+
+Note that this will create a console on **all** games if you put it in autoexec.
+
+### Notices
+This script will, regardless of [Autostart Setting](#autostart), make you automatically retry, unless you press Lobby at the end of the round.
