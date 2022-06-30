@@ -88,4 +88,8 @@ This also causes the issue shown at "[No queue_on_teleport? No problem!](#no-que
 
 > This is also how you'd get it to run on executors with only getgenv() and rconsoleprint() and nothing else
 
+###### Advanced Users
+
+For advanced users, you can see the whole list of commands [here](https://short.astolfo.gay/adscmd)
+
 <!-- I like how the README's length is comparable to the source code of https://github.com/YieldingExploiter/Anime-Dimensions-Simulator/commit/d5655690b526590854d6295b043ecbe507da3bfc (first commit excluding readme creation) -->
