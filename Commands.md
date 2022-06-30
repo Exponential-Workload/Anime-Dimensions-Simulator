@@ -16,6 +16,10 @@ As shown in the help command
 | continue  | Ignore this cycle of the command loop - Useful for hooked rconsoleinput                         |
 | blatant   | Toggles some blatant tactics to attempt to avoid getting damage. Detectable if devs try at all! |
 
+### blatant
+
+Uses some blatant tactics to reduce damage taken; very easy to detect, reduces damage noticabely much aswell.
+
 ### enemy
 
 Manages the enemy selection engine (advanced)
@@ -39,7 +43,7 @@ If disabled, on each execution cycle, we find a new enemy based on the current f
 Can lead to weird behaviour, depending on the map this behaviour can be both good, or bad.<br/>
 Generally bad for bossfights where the boss spawns multiple lower-health enemies.
 
-###### SearchMode [0, 1, 2, 3]
+###### SearchMode [0, 1, 2, 3, 4]
 
 Sets the current enemy searching mode
 
@@ -49,6 +53,7 @@ Modes:
 1. Inverse of 0; not really useful for anything except avoiding damage in mele-focused maps
 2. First-Find First-Serve; uses the first enemy found
 3. Last-Find First-Serve; uses the last enemy found
+4. Random; probabally the worst option since it has 0 strategy
 
 ##### debug
 
