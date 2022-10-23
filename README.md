@@ -8,6 +8,8 @@ Contact me on Discord: `Yielding#3961`
 I am not responsible if you get banned.<br/>
 Remember to always exploit on an alt account!
 
+I doubt anyone will get banned as this game is so stupid that, despite me not having updated the script in OVER 3 MONTHS it still works just fine lmao
+
 # [Anime Dimensions Simulator](https://www.roblox.com/games/6938803436/ONE-YEAR-Anime-Dimensions-Simulator) Autofarm/Autoplay
 
 ```lua
