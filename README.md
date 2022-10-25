@@ -1,3 +1,5 @@
+[Scriptblox](https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-Anime-Dimensions-Simulator-Script-6715) | [V3rmillion](https://v3rmillion.net/showthread.php?tid=1177071)
+
 ###### To the devs of Anime Dimensions
 
 Need me to help you fix some of the obvious vulnerabilities you have?<br/>
@@ -8,7 +10,7 @@ Contact me on Discord: `Yielding#3961`
 I am not responsible if you get banned.<br/>
 Remember to always exploit on an alt account!
 
-I doubt anyone will get banned as this game is so stupid that, despite me not having updated the script in OVER 3 MONTHS it still works just fine lmao
+I doubt anyone will get banned as this game is so stupid that, despite me not having updated the bypasses in OVER 4 MONTHS it still works just fine lmao
 
 # [Anime Dimensions Simulator](https://www.roblox.com/games/6938803436/ONE-YEAR-Anime-Dimensions-Simulator) Autofarm/Autoplay
 
@@ -18,7 +20,7 @@ loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimension
 
 ## Compatability
 
-This works on **any** executor that has a [![UNC](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge16.png)](https://scriptunc.org) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and `getgenv()`, and can run obfuscated scripts at a decent speed, will be able to run this script.
+This works on almost **any** executor that has a [![UNC](https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/badge16.png)](https://scriptunc.org) [Console](https://github.com/unified-naming-convention/NamingStandard/tree/main/api/console) imlpementation, and `getgenv()`, and can run obfuscated scripts at a decent speed, will be able to run this script.
 
 ## How to use it
 
