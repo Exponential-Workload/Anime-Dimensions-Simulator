@@ -3,7 +3,7 @@
 As shown in the help command
 
 | Name      | Description                                                                                     |
-| --------- | ----------------------------------------------------------------------------------------------- |
+|-----------|-------------------------------------------------------------------------------------------------|
 | help      | Shows the help message                                                                          |
 | start     | Starts the Autofarm                                                                             |
 | stop      | Stops the autofarm                                                                              |
@@ -15,10 +15,23 @@ As shown in the help command
 | enemy     | Manages enemy-related stuff (see below)                                                         |
 | continue  | Ignore this cycle of the command loop - Useful for hooked rconsoleinput                         |
 | blatant   | Toggles some blatant tactics to attempt to avoid getting damage. Detectable if devs try at all! |
+| speed     | Modifies some internal speed settings by variable amounts - **USE WITH CAUTION, CAN FLAG**      |
 
 ### blatant
 
 Uses some blatant tactics to reduce damage taken; very easy to detect, reduces damage noticabely much aswell.
+
+### speed [type] [value]
+
+Valid Speed types: `movement`, `attack`
+
+Example:
+
+```
+speed movement 2
+```
+
+will double the speed you move at
 
 ### enemy
 
