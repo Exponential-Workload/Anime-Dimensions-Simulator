@@ -10,7 +10,9 @@ Remember to always exploit on an alt account!
 
 ---
 
-It's been a whole FOUR MONTHS since the source code repo was changed, but that doesn't change that ***the script still works perfectly fine!***
+It's been a whole FOUR MONTHS since the source code repo was changed, but that doesn't change that ***the script still works perfectly fine!*** It's still 100% undetected 😎
+
+These devs do not give a single fuck
 
 # [Anime Dimensions Simulator](https://www.roblox.com/games/6938803436/ONE-YEAR-Anime-Dimensions-Simulator) Autofarm/Autoplay
 
@@ -72,9 +74,9 @@ Note that this will create a console on **all** games if you put it in autoexec.
 
 This script will, regardless of [Autostart Setting](#autostart), make you automatically retry, unless you press Lobby at the end of the round.
 
-###### Fluxus Crashes
+###### Free Exec Crashes
 
-If you're crashing a lot on fluxus, you can try putting this in your autoexec:
+If you're crashing a lot on a free exec, you can try putting this in your autoexec:
 
 ```lua
 task.wait(15.5) -- Fluxus Free Tier; Wait for nag window to disappear
@@ -83,8 +85,6 @@ getgenv().autostart = true; -- Automatically Start
 getgenv().skip_input = true; -- Skip all rconsoleinput()s
 loadstring(game:HttpGetAsync'https://yieldingexploiter.github.io/Anime-Dimensions-Simulator/init.lua','GameScript')();
 ```
-
-\+ use Bytecode Conversion
 
 Note that this **will** remove the ability to run commands.
 
